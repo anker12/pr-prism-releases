@@ -1,7 +1,7 @@
 <p align="center"><img src="logo.svg" width="120" alt="PR Prism logo"></p>
 
 
-# Repo for public pr-prism-releases
+# PR Prism public releases
 
 **Download links:**
 <br/>
