@@ -10,3 +10,9 @@
 
 **Latest release notes:**
 [Here](https://github.com/anker12/pr-prism-releases/releases/latest)
+
+### **About:**
+
+A lightweight desktop app (Tauri 2 + React + TypeScript) that tracks **open pull requests** across the GitHub
+repositories you choose, plus a **merged PR history** with post-merge check / deploy status. No hosted backend:
+the app talks to GitHub directly and keeps everything in local files.
