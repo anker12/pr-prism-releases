@@ -1,10 +1,11 @@
 <p align="center"><img src="logo.svg" width="120" alt="PR Prism logo"></p>
 
 
-# PR Prism public releases
+# PR Prism
 
-**Download links:**
-<br/>
+
+### **Public release:**
+
 [Download for macOS *(only Apple silicon)*](https://github.com/anker12/pr-prism-releases/releases/latest/download/PR-Prism.dmg)
 
 **Latest release notes:**
