@@ -1,4 +1,4 @@
-<p align="center"><img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/fdc4a3fa-1739-423e-9cc4-4a6c2dc43222" /></p>
+<p align="center"><img src="logo.svg" width="120" alt="PR Prism logo"></p>
 
 
 # Repo for public pr-prism-releases
